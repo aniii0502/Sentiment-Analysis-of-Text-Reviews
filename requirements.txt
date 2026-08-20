@@ -1,0 +1,22 @@
+# --- Data Processing & Math ---
+numpy>=2.1.0
+pandas>=2.2.0
+scikit-learn>=1.5.0
+
+# --- Machine Learning & NLP ---
+joblib>=1.4.0
+nltk>=3.9.0
+
+# --- Web API & UI Frameworks ---
+Flask>=3.0.0
+Flask-Cors>=5.0.0
+streamlit>=1.35.0
+requests>=2.31.0
+
+# --- Testing & Code Quality ---
+pytest>=8.0.0
+black>=24.0.0
+flake8>=7.0.0
+
+# --- Utilities ---
+python-dotenv>=1.0.0
